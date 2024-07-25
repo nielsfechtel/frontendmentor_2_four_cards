@@ -2,7 +2,7 @@
 
 Hi, Niels here.
 This is a solution to the [Four card feature section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK).
-[Hosted on GH Pages](https://nielsfechtel.github.io/frontendmentor_2_product_review/).
+[Hosted on GH Pages](https://nielsfechtel.github.io/frontendmentor_2_four_cards/).
 
 ## Table of contents
 
