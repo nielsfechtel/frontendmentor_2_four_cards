@@ -99,7 +99,7 @@ body {
 
   filter: drop-shadow(4px 15px 15px hsl(0 0% 0% / 0.2));
 
-  width: 400px;
+  width: min(100vw, 400px);
   height: 250px;
 
   border-top: 5px solid red;
